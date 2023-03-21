@@ -12,6 +12,11 @@ Also included were statements in the same two categories that appeared in major 
 
 As a general rule, only the relevant excerpts of public statements have been included in the database; deleted material is marked “[text omitted].” (In a case of a lengthy press conference in which Iraq is mentioned only briefly, for example, only the relevant passage is included.) Where deleting text might have rendered the remaining material misleading or difficult to understand, longer passages were left intact. And in some cases public pronouncements of Bush administration officials that did not include direct statements were included if they provided useful context.
 
+
+### Contents
+- [cards.csv](data/cards.csv) - This document contains a list of statements made by members of the Bush administration. Each row includes the date of the statement, the speaker, the source and content of the statement.
+- [timeline.csv](data/timeline.csv) - This document is a timeline of events related to the Iraq war. This file can be used to add context to statements from the `cards.csv` file.
+
 ## Methodology
 
 ### What is a "false statement"?
@@ -23,10 +28,6 @@ Direct false statements. False statements by the eight Bush administration offic
 Indirect false statements. Statements were classified as “indirect” if they did not specifically link Iraq to Al Qaeda but alleged, for example, that Iraq supported or sponsored terrorism or terrorist organizations, or if they referred to Iraq’s former possession of weapons of mass destruction or used such general phrases, for example, as “dangerous weapons.” These indirect false statements are not included in the total count of 935.
 
 In subsequent years following release of the project, the interactive database from which the false statements were coded ceased to function. A backup copy of the data allowed the Center to recreate the coding and make the database live once again in 2014, allowing users to search through all the false statements, read them in their context and track such statements from various Bush administration officials over time. An enhanced Iraq War timeline also was updated.
-
-### Files
-cards.csv - xxxx
-timeline.csv - xxxx
 
 
 ## Credits
