@@ -1,8 +1,8 @@
 # False Pretenses
 
 ## A score-card of false statements by U.S. officials in the run-up to the Iraq war 
-## (originally published Jan. 23, 2008.)
 
+Originally published Jan. 23, 2008:
 Researchers at the Fund for Independence in Journalism sought to document every public statement made by eight top Bush administration officials from September 11, 2001, to September 11, 2003, regarding (1) Iraq’s possession of weapons of mass destruction and (2) Iraq’s links to Al Qaeda. Although both had been frequently cited as rationales for the U.S. war in Iraq, by 2005 it was known that these assertions had not, in fact, been true.
 
 The centerpiece of this project was an exhaustive, searchable, and robustly indexed database of all public statements on the two topics by President George W. Bush, Vice President Dick Cheney, Secretary of State Colin Powell, National Security Adviser Condoleezza Rice, Defense Secretary Donald Rumsfeld, Deputy Defense Secretary Paul Wolfowitz, and White House Press Secretaries Ari Fleischer and Scott McClellan. These statements were painstakingly collected from the websites of the White House, State Department, and Defense Department as well as from transcripts of interviews and briefings, texts of speeches and testimony, prepared statements, and the like.
