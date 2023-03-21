@@ -18,6 +18,19 @@ As a general rule, only the relevant excerpts of public statements have been inc
 - [cards.csv](data/cards.csv) - This document contains a list of statements made by members of the Bush administration. Each row includes the date of the statement, the speaker, the source and content of the statement.
 - [timeline.csv](data/timeline.csv) - This document is a timeline of events related to the Iraq war. This file can be used to add context to statements from the `cards.csv` file.
 
+Here's the breakdown of the speakers of each statement in the dataset:
+
+| Speaker           | Count  |
+| ----------------  | ------ |
+| George W. Bush    | 158    |
+| Colin Powell      | 134    |
+| Donald Rumsfeld   | 64     |
+| Ari Fleischer     | 62     |
+| Paul Wolfowitz    | 49     |
+| Condoleezza Rice  | 32     |
+| Richard B. Cheney | 23     |
+| Scott McClellan   | 11     |
+
 ## Methodology
 
 ### What is a "false statement"?
