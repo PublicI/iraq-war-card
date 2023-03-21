@@ -1,12 +1,12 @@
 # False Pretenses
 
-## A score-card of false statements by U.S. officials in the run-up to the Iraq war
+## A score-card of false statements by U.S. officials in the run-up to the Iraq war, originally published Jan. 23, 2008.
 
-Over the past two and a half years, researchers at the Fund for Independence in Journalism have sought to document every public statement made by eight top Bush administration officials from September 11, 2001, to September 11, 2003, regarding (1) Iraq’s possession of weapons of mass destruction and (2) Iraq’s links to Al Qaeda. Although both had been frequently cited as rationales for the U.S. war in Iraq, by 2005 it was known that these assertions had not, in fact, been true.
+Researchers at the Fund for Independence in Journalism sought to document every public statement made by eight top Bush administration officials from September 11, 2001, to September 11, 2003, regarding (1) Iraq’s possession of weapons of mass destruction and (2) Iraq’s links to Al Qaeda. Although both had been frequently cited as rationales for the U.S. war in Iraq, by 2005 it was known that these assertions had not, in fact, been true.
 
-The centerpiece of this project is an exhaustive, searchable, and robustly indexed database of all public statements on the two topics by President George W. Bush, Vice President Dick Cheney, Secretary of State Colin Powell, National Security Adviser Condoleezza Rice, Defense Secretary Donald Rumsfeld, Deputy Defense Secretary Paul Wolfowitz, and White House Press Secretaries Ari Fleischer and Scott McClellan. These statements were painstakingly collected from the websites of the White House, State Department, and Defense Department as well as from transcripts of interviews and briefings, texts of speeches and testimony, prepared statements, and the like.
+The centerpiece of this project was an exhaustive, searchable, and robustly indexed database of all public statements on the two topics by President George W. Bush, Vice President Dick Cheney, Secretary of State Colin Powell, National Security Adviser Condoleezza Rice, Defense Secretary Donald Rumsfeld, Deputy Defense Secretary Paul Wolfowitz, and White House Press Secretaries Ari Fleischer and Scott McClellan. These statements were painstakingly collected from the websites of the White House, State Department, and Defense Department as well as from transcripts of interviews and briefings, texts of speeches and testimony, prepared statements, and the like.
 
-Also included are statements in the same two categories that appeared in major newspapers and on television programs, were part of public statements by other officials, or were contained in government studies or reports, books, and the like from September 11, 2001, to December 31, 2007. Secondary material from reports and books was included in the two-year database only in cases where specific dates were available. Other noteworthy material was included for context and completeness.
+Also included were statements in the same two categories that appeared in major newspapers and on television programs, were part of public statements by other officials, or were contained in government studies or reports, books, and the like from September 11, 2001, to December 31, 2007. Secondary material from reports and books was included in the two-year database only in cases where specific dates were available. Other noteworthy material was included for context and completeness.
 
 As a general rule, only the relevant excerpts of public statements have been included in the database; deleted material is marked “[text omitted].” (In a case of a lengthy press conference in which Iraq is mentioned only briefly, for example, only the relevant passage is included.) Where deleting text might have rendered the remaining material misleading or difficult to understand, longer passages were left intact. And in some cases public pronouncements of Bush administration officials that did not include direct statements were included if they provided useful context.
 
@@ -21,6 +21,8 @@ Direct false statements. False statements by the eight Bush administration offic
 Indirect false statements. Statements were classified as “indirect” if they did not specifically link Iraq to Al Qaeda but alleged, for example, that Iraq supported or sponsored terrorism or terrorist organizations, or if they referred to Iraq’s former possession of weapons of mass destruction or used such general phrases, for example, as “dangerous weapons.” These indirect false statements are not included in the total count of 935.
 
 In subsequent years following release of the project, the interactive database from which the false statements were coded ceased to function. A backup copy of the data allowed the Center to recreate the coding and make the database live once again in 2014, allowing users to search through all the false statements, read them in their context and track such statements from various Bush administration officials over time. An enhanced Iraq War timeline also was updated.
+
+### Files
 
 
 ## Credits
