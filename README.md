@@ -1,10 +1,10 @@
 # False Pretenses
 
-## A score-card of false statements by U.S. officials in the run-up to the Iraq war
+### A score-card of false statements by U.S. officials in the run-up to the Iraq war
 
-Based on the book [935 Lies: The Future of Truth and the Decline of America’s Moral Integrity](https://www.amazon.com/gp/product/1610391179) by [Chuck Lewis](https://en.wikipedia.org/wiki/Charles_Lewis_(journalist)).
+*Based on the book [935 Lies: The Future of Truth and the Decline of America’s Moral Integrity](https://www.amazon.com/gp/product/1610391179) by [Chuck Lewis](https://en.wikipedia.org/wiki/Charles_Lewis_(journalist)).*
 
-Originally published Jan. 23, 2008:
+***Originally published Jan. 23, 2008:***
 
 Researchers at the Fund for Independence in Journalism sought to document every public statement made by eight top Bush administration officials from September 11, 2001, to September 11, 2003, regarding (1) Iraq’s possession of weapons of mass destruction and (2) Iraq’s links to Al Qaeda. Although both had been frequently cited as rationales for the U.S. war in Iraq, by 2005 it was known that these assertions had not, in fact, been true.
 
