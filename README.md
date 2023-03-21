@@ -1,6 +1,8 @@
 # False Pretenses
 
-## A score-card of false statements by U.S. officials in the run-up to the Iraq war 
+## A score-card of false statements by U.S. officials in the run-up to the Iraq war
+
+Based on the book [935 Lies: The Future of Truth and the Decline of America’s Moral Integrity](https://www.amazon.com/gp/product/1610391179) by [Chuck Lewis](https://en.wikipedia.org/wiki/Charles_Lewis_(journalist)).
 
 Originally published Jan. 23, 2008:
 
@@ -11,7 +13,6 @@ The centerpiece of this project was an exhaustive, searchable, and robustly inde
 Also included were statements in the same two categories that appeared in major newspapers and on television programs, were part of public statements by other officials, or were contained in government studies or reports, books, and the like from September 11, 2001, to December 31, 2007. Secondary material from reports and books was included in the two-year database only in cases where specific dates were available. Other noteworthy material was included for context and completeness.
 
 As a general rule, only the relevant excerpts of public statements have been included in the database; deleted material is marked “[text omitted].” (In a case of a lengthy press conference in which Iraq is mentioned only briefly, for example, only the relevant passage is included.) Where deleting text might have rendered the remaining material misleading or difficult to understand, longer passages were left intact. And in some cases public pronouncements of Bush administration officials that did not include direct statements were included if they provided useful context.
-
 
 ## Contents
 - [cards.csv](data/cards.csv) - This document contains a list of statements made by members of the Bush administration. Each row includes the date of the statement, the speaker, the source and content of the statement.
