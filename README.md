@@ -16,7 +16,7 @@ As a general rule, only the relevant excerpts of public statements have been inc
 *Also see: [935 Lies: The Future of Truth and the Decline of America’s Moral Integrity](https://www.amazon.com/gp/product/1610391179) by [Chuck Lewis](https://en.wikipedia.org/wiki/Charles_Lewis_(journalist)).*
 
 ## Contents
-- [cards.csv](data/cards.csv) - This document contains a list of statements made by members of the Bush administration. Each row includes the date and content of the statement. It also includes the name of the speaker, a lits of people and topics mentioned in the statement along with a link to the source of the statement.
+- [cards.csv](data/cards.csv) - This document contains a list of statements made by members of the Bush administration. Each row includes the date and content of the statement. It also includes the name of the speaker, a list of people and topics mentioned in the statement along with a link to the source of the statement.
 - [timeline.csv](data/timeline.csv) - This document is a timeline of events related to the Iraq war. This file can be used to add context to statements from the `cards.csv` file.
 
 ## Methodology
